@@ -1,4 +1,6 @@
 # debiased-sentiment-analysis
 
-Note: During loss optimization, the accuracy values monitored by TensorFlow in the custom loss may not be reflective of the accuracy on the test set.
-This is due to the custom loss implementation not integrating with the reporting of accuracy during training.
+Repository of the paper "Mitigating Social Bias in Sentiment Classification via Ethnicity-Aware Algorithmic Design"
+
+Soon available at: https://doi.org/10.1007/s13278-024-01369-9
+
