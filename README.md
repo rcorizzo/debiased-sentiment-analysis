@@ -10,14 +10,15 @@ Corizzo, R., Hafner, F.S. Mitigating social bias in sentiment classification via
 If our work is useful please consider citing our paper:
 
 ### Cite:
-@article{corizzo2024mitigating,<br />
-  title={Mitigating social bias in sentiment classification via ethnicity-aware algorithmic design},<br />
-  author={Corizzo, Roberto and Hafner, Franziska Sofia},<br />
-  journal={Social Network Analysis and Mining},<br />
-  volume={14, 208},<br />
-  pages={1--16},<br />
-  year={2024},<br />
-  publisher={Springer}<br />
+```
+@article{corizzo2024mitigating,
+  title={Mitigating social bias in sentiment classification via ethnicity-aware algorithmic design},
+  author={Corizzo, Roberto and Hafner, Franziska Sofia},
+  journal={Social Network Analysis and Mining},
+  volume={14, 208},
+  pages={1--16},
+  year={2024},
+  publisher={Springer}
 }
-
+```
 
