@@ -1,10 +1,13 @@
 # debiased-sentiment-analysis
 
+![GIF](https://imgur.com/lde8CfI.gif)
+
+
 ------  
 This repository includes the code and models of the corresponding paper.
 
 # Paper:
-Corizzo, R., Hafner, F.S. Mitigating social bias in sentiment classification via ethnicity-aware algorithmic design. <em>Social Network Analysis and Mining 14, 208</em> (<2024). [https://doi.org/10.1007/s13278-024-01369-9](https://doi.org/10.1007/s13278-024-01369-9)
+Corizzo, R., Hafner, F.S. Mitigating social bias in sentiment classification via ethnicity-aware algorithmic design. <em>Social Network Analysis and Mining 14, 208</em> (2024). [https://doi.org/10.1007/s13278-024-01369-9](https://doi.org/10.1007/s13278-024-01369-9)
 
 ------  
 If our work is useful please consider citing our paper:
