@@ -14,7 +14,7 @@ If our work is useful please consider citing our paper:
   title={Mitigating social bias in sentiment classification via ethnicity-aware algorithmic design},<br />
   author={Corizzo, Roberto and Hafner, Franziska Sofia},<br />
   journal={Social Network Analysis and Mining},<br />
-  volume={14, 208},
+  volume={14, 208},<br />
   pages={1--16},<br />
   year={2024},<br />
   publisher={Springer}<br />
